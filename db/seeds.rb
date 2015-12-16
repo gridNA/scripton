@@ -5,11 +5,16 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+
+
 data = File.read("private/words.txt")
 words = []
 
+
 data.split("\n").each do |word_text|
-  if ! Word.exists? text: word_text
+  word_text.format_word!
+  if !Word.exists? text: word_text
     words << Word.find_or_create_by(text: word_text)
   end
 end
