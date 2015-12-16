@@ -14,8 +14,8 @@ end
 
 class FileProcessor
     
-    def parseHtml
-        url = 'http://en.bab.la/dictionary/german-english/arbeit'
+    def parseHtml(word)
+        url = 'http://en.bab.la/dictionary/german-english/' + word
         html = open(url)
         
         doc = Nokogiri::HTML(html)
@@ -46,17 +46,47 @@ class FileProcessor
     
     def play_mp3_by(index, parsedHTML)
         outname = write_mp3_by_index(index, parsedHTML)
-        puts 'start'
         system "mpg123 -q #{outname}"
-        puts 'end'
     end
     
-    def processWords
-        html = parseHtml
-        play_mp3_by(0, html)
-        play_mp3_by(1, html)
+    def processWords(array)
+        i = 0
+        while i < array.size do
+            word = array[i]
+            begin
+                html = parseHtml(normalizeWord(word))
+                play_mp3_by(0, html)
+                puts word
+                play_mp3_by(1, html)
+                rescue Exception => e
+                puts 'translation for word [' + word + '] not found'
+            end
+            i += 1
+        end
+    end
+        
+    def normalizeWord(word)
+        w = word.split.join(" ")
+        return w
     end
 end
 
+array = ["achten",
+"andern",
+"anerkennen",
+"anfangen",
+"angeln",
+"angreifen",
+"anhaben",
+"ankommen",
+"annehmen",
+"anrufen",
+"antworten",
+"arbeiten",
+"argern",
+"atmen",
+"auffallen",
+"auskommen"]
+
 l = FileProcessor.new
-l.processWords
+l.processWords(array)
