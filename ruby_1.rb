@@ -47,6 +47,7 @@ class FileProcessor
     def play_mp3_by(index, parsedHTML)
         outname = write_mp3_by_index(index, parsedHTML)
         system "mpg123 -q #{outname}"
+        FileUtils.rm(outname)
     end
     
     def processWords(array)
@@ -55,8 +56,8 @@ class FileProcessor
             word = array[i]
             begin
                 html = parseHtml(normalizeWord(word))
-                play_mp3_by(0, html)
                 puts word
+                play_mp3_by(0, html)
                 play_mp3_by(1, html)
                 rescue Exception => e
                 puts 'translation for word [' + word + '] not found'
@@ -71,22 +72,7 @@ class FileProcessor
     end
 end
 
-array = ["achten",
-"andern",
-"anerkennen",
-"anfangen",
-"angeln",
-"angreifen",
-"anhaben",
-"ankommen",
-"annehmen",
-"anrufen",
-"antworten",
-"arbeiten",
-"argern",
-"atmen",
-"auffallen",
-"auskommen"]
+array = ["dursten", "frieren", "Einwand", "begegnen", "falten", "sichgewohnen", "Eingangstür", "steigen","fliegen", "fast"]
 
 l = FileProcessor.new
 l.processWords(array)
