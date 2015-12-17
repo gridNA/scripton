@@ -3,7 +3,7 @@ require 'open-uri'
 require 'nokogiri'
 require 'pry'
 require 'net/http'
-
+require 'uri'
 
 class String
     def string_between_markers marker1, marker2
@@ -14,10 +14,14 @@ end
 
 class FileProcessor
     
+    def generate_words_array
+        pageContent = Net::HTTP.get(URI.parse('http://scripton.herokuapp.com/words/daily'))
+        wordsArray = pageContent.split("\n")
+    end
+    
     def parseHtml(word)
         url = 'http://en.bab.la/dictionary/german-english/' + word
         html = open(url)
-        
         doc = Nokogiri::HTML(html)
         htmlParsed = doc.css("a[data-original-title='Listen']")
         return htmlParsed
@@ -63,6 +67,9 @@ class FileProcessor
                 puts 'translation for word [' + word + '] not found'
             end
             i += 1
+            if i == array.size - 1
+                i = 0
+            end
         end
     end
         
@@ -72,7 +79,6 @@ class FileProcessor
     end
 end
 
-array = ["dursten", "frieren", "Einwand", "begegnen", "falten", "sichgewohnen", "Eingangstür", "steigen","fliegen", "fast"]
-
 l = FileProcessor.new
-l.processWords(array)
+wordsArray = l.generate_words_array()
+l.processWords(wordsArray)
