@@ -73,3 +73,8 @@ Other languages will be supported soon.
 ##Important
 
 If script does not stop when you expected, go to terminal and run the `script_ender.sh` script there.
+
+##Acknowledgements
+
+Scripton is using amasing website http://bab.la to get translation to all words that are used in the application.
+Great thanks to contributor [Yunus Eren Guzel](https://github.com/yunuserenguzel) who made a server side of the project.
