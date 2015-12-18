@@ -23,8 +23,8 @@ brew install mpg123
 
 ## How
 
-1) Create a folder in your Mac, where you will copy `script.rb`, `script_runner.sh`, `script_ender.sh`
-2) Open `script_runner.sh` and change path to your local path to ruby script in line
+1) Create a folder in your Mac, where you will copy `script.rb`, `script_runner.sh`, `script_ender.sh`<br />
+2) Open `script_runner.sh` and change path to your local path to ruby script in line<br />
 
 ```
 ruby HERE_SHOULD_BE_YOUR_PATH/ruby_1.rb
@@ -34,12 +34,12 @@ ruby HERE_SHOULD_BE_YOUR_PATH/ruby_1.rb
 ```
 process_id=`ps aux|grep "ruby HERE_SHOULD_BE_YOUR_PATH/ruby_1.rb"|grep -v grep | awk '{ print $2 }'`
 ```
-4) Open `XCode`
-5) Go to `Preferences`
-6) Select `Behaviours` tab and in `Build` section select `Start`. Check checkbox `Run` and select `script_runner.sh`
-7) In `Build` xection select `Succeeds`. Check checkbox `Run` and select `script_ender.sh`. Do the same for `Fails`.
+4) Open `XCode`<br />
+5) Go to `Preferences`<br />
+6) Select `Behaviours` tab and in `Build` section select `Start`. Check checkbox `Run` and select `script_runner.sh`<br />
+7) In `Build` section select `Succeeds`. Check checkbox `Run` and select `script_ender.sh`. Do the same for `Fails`.<br />
 
-Than run the project and enjouy German words.
+Than run the project and enjoy German words.
 
 ## Example
 
@@ -60,7 +60,7 @@ It is possible also translate to such languages:
 - german-swedish
 - german-turkish
 
-To translate to differnt language do the followed:
+To translate to differnt language do the following:<br />
 
 Open `script.rb` and paste in line `23` version of tranlation you need instead of `german-english`
 
@@ -72,4 +72,4 @@ Other languages will be supported soon.
 
 ##Important
 
-If script does not stop when you expected, go to teminal and run the `script_ender.sh` script there.
+If script does not stop when you expected, go to terminal and run the `script_ender.sh` script there.
