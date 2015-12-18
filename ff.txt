@@ -346,25 +346,26 @@ sehen
 sein
 senden
 seufzen
-sichanziehen
-sichausziehen
-sichbedienen
-sichbefinden
-sicheinbilden
-sicherinnern
-sicherkalten
-sichfreuen
-sichgenieren
-sichgewohnen
-sichinteressieren
-sichlohnen
-sichscheidenlassen
-sichsetzen
-sichunterhalten
-sichverhalten
-sichverlieben
-sich vorstellen
-sichwehren
+anziehen
+ausziehen
+bedienen
+befinden
+einbilden
+erinnern
+erkalten
+freuen
+genieren
+gewöhnen
+interessieren
+lohnen
+scheiden
+lassen
+setzen
+unterhalten
+verhalten
+verlieben
+vorstellen
+wehren
 sieden
 siegen
 singen
@@ -562,7 +563,7 @@ ausgehen
 ausgezeichnet
 Auskunft
 Ausland
-ausruhen_sich
+ausruhen_
 aussehen
 außer
 außerdem
@@ -754,7 +755,7 @@ Erfolg
 erfüllen
 Ergebnis
 erhalten
-erholen_sich
+erholen_
 erinnern
 erkennen
 erklären
@@ -880,7 +881,7 @@ Geschichte
 Geschwindigkeit
 Gesellschaft
 Gesetz
-Gesicht
+Get
 Gespräch
 gestern
 gesund
@@ -1269,8 +1270,8 @@ selten
 September
 Sessel
 setzen
-sich
-sicher
+
+er
 sie
 Sie
 sieben
@@ -1480,191 +1481,191 @@ Zweck
 zwei
 zwischen
 angeklagt
-das Jungchen
+Jungchen
 vorlesen
 zugleich
-der Vorsitzende
+Vorsitzende
 Auschwitz
 Aufseherinnen
-die Kassette
-das Seminar
-die Verhandlung
-die Scham
-der Angeklagte
+Kassette
+Seminar
+Verhandlung
+Scham
+Angeklagte
 zunächst
-das Schwimmbad
+Schwimmbad
 nicken
-die Baracke
+Baracke
 hell
-der Zettel
-das KZ
-die Betäubung
+Zettel
+KZ
+Betäubung
 Bloﬂstellung
-der Nacken
-der Strumpf
-die Begegnung
+Nacken
+Strumpf
+Begegnung
 schütteln
 zucken
-die Schrift
-der Flur
-die Wanne
+Schrift
+Flur
+Wanne
 begegnen
-das Gedicht
-der Verteidiger
-die Wachmannschaft
-die Leiterin
-die Distanz
+Gedicht
+Verteidiger
+Wachmannschaft
+Leiterin
+Distanz
 gelegentlich
 Strasenbahn
 Odyssee
 Sophie
-die Literatur
+Literatur
 verurteilt
 vorsitzend
 ärgern
 Geschwister
-der Eifer
+Eifer
 siemens
-das Regal
+Regal
 vorgelesen
-die Universität
+Universität
 Gerichtsverhandlung
 verurteilen
-die Vernehmung
-der Brand
+Vernehmung
+Brand
 fünfzehn
 lagern
-der Bewohner
+Bewohner
 brennend
-die Gestalt
-die Bemerkung
+Gestalt
+Bemerkung
 zögern
-die Gegenwart
+Gegenwart
 eigentümlich
-das Entsetzen
-der Transport
-das Examen
-der Verlag
-der Balkon
-die Säge
+Entsetzen
+Transport
+Examen
+Verlag
+Balkon
+Säge
 verwundert
 glatt
 blass
-der Po
+Po
 reihen
 überdies
 dringen
-die Phantasie
-die Ferne
+Phantasie
+Ferne
 moralisch
-das Tuch
+Tuch
 erschöpfen
 betäubt
-die Erwartung
+Erwartung
 Ferien
-das Fahrrad
+Fahrrad
 drängen
-die Haltestelle
-die Rechenschaft
-der Beginn
-das Studium
-der Nazi
+Haltestelle
+Rechenschaft
+Beginn
+Studium
+Nazi
 morden
-der Täter
-die Kenntnis
-die Haft
-der Häftling
+Täter
+Kenntnis
+Haft
+Häftling
 vergleichen
-die Selektion
+Selektion
 Pfarrhaus
 Aufseherin
 Verwundeten
 zurückgeblieben
 Verbrecherin
-die Dose
-das Frühjahr
+Dose
+Frühjahr
 stützen
 gespannt
 Heimatstadt
 hinunter
 ferner
-das Gelände
+Gelände
 falten
 konzentriert
 damalig
-die Stirn
-das Grau
-das Rätsel
-die Haltung
+Stirn
+Grau
+Rätsel
+Haltung
 erleichtert
-die Schütte
+Schütte
 Koks
-der Pullover
-die Wärme
-die Philosophie
+Pullover
+Wärme
+Philosophie
 verstummen
-der Fahrschein
-das Schuljahr
+Fahrschein
+Schuljahr
 berichten
 entziehen
 empören
 schwitzigen
-die Plattform
-der Schaffner
+Plattform
+Schaffner
 kränken
-der Vorwurf
+Vorwurf
 sechzig
 gleichgültig
 schmal
-die Hilflosigkeit
+Hilflosigkeit
 zart
 Arbeitszimmer
 empfunden
 verteilt
 kläglich
-die Auseinandersetzung
-der Ausdruck
+Auseinandersetzung
+Ausdruck
 verleugnet
 frieren
 aushalten
-die Aufarbeitung
-das Verfahren
+Aufarbeitung
+Verfahren
 befremden
 Staatsanwälte
 Mandantin
 erträglich
-sichtbar
+tbar
 Israel
-der Vergleich
-die Verlesung
-der Turm
-das Manuskript
+Vergleich
+Verlesung
+Turm
+Manuskript
 entzogen
-das Lazarett
+Lazarett
 wortlos
 Strothoff
 Konzentrationslager
-das Urteil
-der Referendar
-die Nische
+Urteil
+Referendar
+Nische
 Teetasse
 Vorleser
 Diogenes
 Gelbsucht
-die Wäsche
+Wäsche
 frischen
 Treppenhaus
 hinauf
 stumm
-die Hitze
+Hitze
 aufgefallen
-das Wohnzimmer
+Wohnzimmer
 bügeln
 gleichmäßig
-die Wade
-der Schenkel
+Wade
+Schenkel
 gestrichen
-der Wechsel
+Wechsel
 tasten
 phantasieren
 zueinander
@@ -1677,18 +1678,18 @@ sehnen
 gewaschen
 gegenübertreten
 nuﬂloch
-die Leere
+Leere
 lehnen
-der Abschied
+Abschied
 duschen
-das Heft
+Heft
 Buchs
 auﬂen
 gekränkt
 schmerzlich
 mehr
 Emilia
-unsicher
+uner
 gehandelt
 begangen
 gefreut
@@ -1696,26 +1697,26 @@ sinken
 präsentieren
 Jeans
 jeweils
-die Anerkennung
+Anerkennung
 streichen
 darunter
 entsetzt
 erstmals
-die Bluse
-angesichts
+Bluse
+angets
 Gerichtssaal
-der Gegenstand
-der Wächter
+Gegenstand
+Wächter
 Furchtbarkeiten
 juristisch
-der Zuschauer
-der Saal
+Zuschauer
+Saal
 nationalsozialistischen
 irritiert
 Krakau
 beschäftigen
 gehetzt
-die Fassung
+Fassung
 erneut
 aufbrechen
 zurückgeschickt
@@ -1724,31 +1725,31 @@ bereitwillig
 bestreiten
 verweigern
 entsprechend
-der Schützling
+Schützling
 ohnehin
-die Scheune
+Scheune
 Dachstuhl
 gemerkt
 Fluchtversuche
-die Abfahrt
+Abfahrt
 befohlen
-das Blatt
+Blatt
 Lebenslüge
-der Hang
+Hang
 sozial
 Heimkehr
 Buchstaben
-das Kloster
-die Vereinigung
-der Herbst
+Kloster
+Vereinigung
+Herbst
 blumenstrase
-der Oktober
-der Leib
+Oktober
+Leib
 kreischen
 Wasserhahn
-der Hahn
-der Eimer
-der Gehweg
+Hahn
+Eimer
+Gehweg
 Schweis
 Erdgeschoss
 mauern
@@ -1757,43 +1758,43 @@ eisern
 schwerer
 herrschaftlich
 Stadtviertel
-die Umgebung
+Umgebung
 sonderbar
-die Klinke
+Klinke
 umgeben
-der Kohl
+Kohl
 begrüß
-der Herd
-die Badewanne
+Herd
+Badewanne
 Badeofen
 breiten
 ehemalig
 Kittelschürze
 absetzen
-das Kinn
-das Unterkleid
+Kinn
+Unterkleid
 beugen
 kräftigen
 dreisig
 vielmehr
-der Alltag
-die Kindheit
+Alltag
+Kindheit
 Krankenzimmer
-das Muster
-die Fratze
+Muster
+Fratze
 passiv
 gewissermassen
-die Befriedigung
+Befriedigung
 ticken
 strasenbahnschaffnerin
 Treppenabsatz
-der Brocken
-der Sprung
+Brocken
+Sprung
 Küchentisch
 rauschen
 baden
-das Frottiertuch
-das Geschlecht
+Frottiertuch
+Geschlecht
 heran
 verwöhnt
 trampen
@@ -1801,18 +1802,18 @@ verächtlich
 Schos
 jedes
 mal
-der Rand
+Rand
 Heimweh
 Frühschicht
 hastig
 ergreifen
 siebzehn
-die Schaffnerin
-die Zange
+Schaffnerin
+Zange
 strecken
 vorkommen
 angezogen
-der Rückblick
+Rückblick
 bewundert
 Traurigkeit
 begleitet
@@ -1821,62 +1822,62 @@ griechisch
 kabale
 einigermasen
 erkennbar
-das Ritual
+Ritual
 weiterzulesen
-der Hügel
+Hügel
 paarmal
 vergebens
 empört
 mitgefahren
-die Geste
+Geste
 zurückweisen
 zugegeben
 erstarren
-die Marke
-die Pyramide
+Marke
+Pyramide
 rheinebene
 Forsythien
-das Nebeneinander
-das Ufer
+Nebeneinander
+Ufer
 Nachttisch
 Taugenichts
-das Verhältnis
+Verhältnis
 gewachsen
 registriert
-der Nicki
+Nicki
 auftragen
 Buchrücken
 Klassenzimmer
-die Nachbarin
+Nachbarin
 sommerlich
 schweifen
 leiser
 verscheuchen
 anfühlen
 anklagen
-die Taille
+Taille
 gelaunt
 bloﬂgestellt
 verleugnen
-der Verrat
-der Tropfen
+Verrat
+Tropfen
 spürbar
 quälen
 erregen
 zwanzig
 eingesetzt
-das Möbel
+Möbel
 angeboten
 körperlich
-der Paragraph
+Paragraph
 Schergen
 befolgt
-die Gelehrsamkeit
-das Protokoll
+Gelehrsamkeit
+Protokoll
 aufklärerisch
 wissenschaftlich
-die Robe
-der Schöffe
+Robe
+Schöffe
 bedacht
 vorgeworfen
 übergehen
@@ -1892,7 +1893,7 @@ berichtet
 wahrnehmen
 reduziert
 alltäglich
-die Empörung
+Empörung
 Tatbestand
 geringer
 unerträglich
@@ -1903,156 +1904,156 @@ insgesamt
 letztlich
 hilflos
 verkraften
-die Flamme
+Flamme
 aufgeschlossen
 Einschlag
 übergreifen
 Lastwagen
 bewachen
 sachverständig
-das Semester
-die Beförderung
-der Teilnehmer
-die Selbstdarstellung
-der Linkshänder
+Semester
+Beförderung
+Teilnehmer
+Selbstdarstellung
+Linkshänder
 hereinrufen
 aufgehoben
 gleichwohl
-die Reitpeitsche
+Reitpeitsche
 Vorleserin
-das Klischee
-die Anschauung
+Klischee
+Anschauung
 verdanken
 Vogesen
-der Steinbruch
+Steinbruch
 gefaltet
 unlängst
 laufend
 vergeblich
 seminargruppe
-der Parkplatz
-der Besucher
+Parkplatz
+Besucher
 tuscheln
-das Kostüm
+Kostüm
 Lesesaal
 mitkriegen
 vorwerfen
 überwinden
 kennengelernt
-das Zusammensein
+Zusammensein
 Rechtsgeschichte
 schnitzler
 Analphabetismus
 verweigert
 achtzehn
-die Einrichtung
-der Duft
+Einrichtung
+Duft
 gerichtet
-die Absolution
+Absolution
 Bernhard
 te
-der Ausschnitt
+Ausschnitt
 dunkler
 schwächer
-der Februar
-die Amsel
+Februar
+Amsel
 aufeinander
 erbrochen
 klatschen
-die Enge
-die Umarmung
-der Atem
+Enge
+Umarmung
+Atem
 Taschengeld
 achtziger
-das Stockwerk
+Stockwerk
 verzichtet
 Apartments
 abstellen
 breiter
-das Geländer
+Geländer
 wahrgenommen
 dominieren
 Häuserzeile
-der Stuck
+Stuck
 gemustert
 Läufer
 reifen
 zurückfahren
-der Lavendel
+Lavendel
 flach
 allenfalls
 flimmern
 glänzen
 Brandmauern
-der Vorhang
-der Eingang
+Vorhang
+Eingang
 ergriffen
 ursprünglich
-die Fassade
+Fassade
 geprägt
 kleben
-der Stab
-die Schnur
+Stab
+Schnur
 gebraten
-die Spüle
+Spüle
 Kleiderschrank
 Couch
-die Schreinerei
-der Bahnhof
+Schreinerei
+Bahnhof
 hinschauen
 weglegen
 hohe
 blaﬂblaue
 gerollt
 fuﬂspitze
-der Streifen
+Streifen
 fragend
 tadelnd
 stürzte
-der Zaun
-die Beere
+Zaun
+Beere
 Platten
 souverän
 zukommen
 schwerfällig
 zurückgezogen
-der Rhythmus
+Rhythmus
 erregt
-die Erregung
+Erregung
 überdrüssig
 spazieren
 enwelt
 gedämpft
-der Kranke
-der Widerschein
-der Mangel
-das Labyrinth
-der Pfarrer
+Kranke
+Widerschein
+Mangel
+Labyrinth
+Pfarrer
 verehren
 aktiv
 Courage
 Begierde
-die berlegung
+berlegung
 gründlich
-der Kragen
+Kragen
 vollziehen
 eigenständig
 Eingangstür
 angelehnt
-die Garderobe
-der Entschlug
+Garderobe
+Entschlug
 Konsequenzen
 ausgeführt
-das Viertel
-die Münze
+Viertel
+Münze
 Bretterverschlag
 fegen
 verschliessen
-die Krawatte
+Krawatte
 einlaufen
 mustern
 rasch
-das Behagen
+Behagen
 ausgebreitet
 gerochen
 befriedigen
@@ -2061,49 +2062,49 @@ Mitschülern
 ärgerlich
 Ehrenfriedhof
 schnauben
-der ältere
+ältere
 prüfend
 kämpferisch
 nörgeln
-der Teller
+Teller
 ansprechen
 einkaufen
 säubern
 anderswo
-das Sofa
+Sofa
 runden
 herüber
 schwänzen
 peinlicher
-die Sauberkeit
-das Parfum
-die Falte
+Sauberkeit
+Parfum
+Falte
 übertönen
-der Nachbar
+Nachbar
 eingeschlafen
-der Vorname
+Vorname
 gekuckt
 geachtet
 versäumt
 lochen
-der Daumen
+Daumen
 Geldschein
 Geldtasche
 brüchig
 unerkannt
-das Leder
-die Angabe
+Leder
+Angabe
 zurückdenken
 aufgewachsen
 sechshundert
-das Ostern
+Ostern
 wegfahren
 jünger
 erfinden
-die Konzentration
+Konzentration
 aufmerksam
 Luise
-die Ungeduld
+Ungeduld
 osterferien
 Rückfahrt
 vorder
@@ -2111,8 +2112,8 @@ scherzen
 blühend
 angelegt
 eingeschlossen
-der Damm
-die Strecke
+Damm
+Strecke
 gestoﬂen
 signalisieren
 Obstbäume
@@ -2121,29 +2122,29 @@ erleichtern
 ängstlich
 ironisch
 Eindringling
-rücksichtslos
+rücktslos
 beieinander
 neckte
-der Anlaﬂ
+Anlaﬂ
 kapituliert
 eingestanden
 nachfragen
 beieinander
 liegens
-die Einwand
-die Sammlung
+Einwand
+Sammlung
 anzeigen
 flecken
 blühen
-die Burg
-die Speiche
+Burg
+Speiche
 Zahnrad
 Fahrtwind
 flatterte
 stürzen
 einschlafen
 aufgewacht
-der Gürtel
+Gürtel
 aufgerissen
 kuscheln
 geplatzt
@@ -2151,18 +2152,18 @@ gerissen
 kennt
 besondere
 versetzt
-die Befreiung
+Befreiung
 gleichmütig
 Kaufhof
 seiden
-das Nachthemd
+Nachthemd
 Flügeltür
-der Nachtisch
+Nachtisch
 Bücherregale
-der Zeigefinger
+Zeigefinger
 Spiegelbild
 innere
-die Leinwand
+Leinwand
 projizieren
 mehrfach
 gestreift
@@ -2173,9 +2174,9 @@ aufgelöst
 parallelklassen
 zugewiesen
 vierte
-der Rektor
+Rektor
 eröffnen
-die Kolonne
+Kolonne
 mittler
 Mitschüler
 Rudolf
@@ -2183,57 +2184,57 @@ jenseits
 gelingen
 bewältigen
 scheitern
-die Leistung
+Leistung
 erniedrigen
 Heiligenberg
 gelber
 milchig
 stottern
-der Passagier
+Passagier
 Ruﬂland
 scheu
 gekannt
 füreinander
 breit
 festen
-die Assoziation
-der Kamerad
-der Volleyball
+Assoziation
+Kamerad
+Volleyball
 dazuzugehören
-der Juli
-die Leichtigkeit
+Juli
+Leichtigkeit
 preisgegeben
 offenbart
 verschwiegen
 unscheinbar
-die Variante
+Variante
 meiden
 bekennen
 Vertrautheit
-das Gewitter
+Gewitter
 blitzen
 stürmen
 regnen
 ausweichen
-der Wildwestfilm
+Wildwestfilm
 tagelang
 herrisch
 verletzlich
 anmachen
-die Empfindung
+Empfindung
 Shorts
 offener
 geknotet
 aufgesprungen
 zugewandt
-die Fahrerin
+Fahrerin
 bündeln
 gequält
 hinfahren
 Rechtswissenschaft
 wägen
 demütigen
-das Gehabe
+Gehabe
 durchschauen
 arrogant
 Sanatorium
@@ -2241,16 +2242,16 @@ einschlägig
 widerlegen
 durchgesetzt
 emigration
-die Verurteilung
-die Aufklärung
-die Verwaltung
+Verurteilung
+Aufklärung
+Verwaltung
 furchtbarer
 distanziert
 bewähren
 Protokollanten
 verwehren
-der Frühling
-der Knoten
+Frühling
+Knoten
 haaren
 Vorarbeiterin
 betreiben
@@ -2258,8 +2259,8 @@ eingestellt
 aufgebrochen
 verdunkeln
 haftrichter
-die Schwere
-die Masche
+Schwere
+Masche
 Gerichtsbank
 hereingeführt
 hochmütig
@@ -2268,19 +2269,19 @@ angespannt
 gefroren
 registrieren
 kneifen
-die Spritze
+Spritze
 gekniffen
 innerlich
 rechthaberisch
-die Schärfe
+Schärfe
 lärmend
-das Temperament
+Temperament
 mithalten
 Erschütterung
 mühsam
 besprochen
 überlebend
-die Funktion
+Funktion
 nachlebend
 derart
 gelitten
@@ -2294,41 +2295,41 @@ derer
 Gebälk
 lodernd
 Gestühl
-die Beweisaufnahme
+Beweisaufnahme
 zugänglich
 irritieren
 richterlich
 beharrlich
 hörbar
-die Beharrlichkeit
-die Unschuld
+Beharrlichkeit
+Unschuld
 niedrig
 beurteilen
-die Spannung
+Spannung
 genügt
 vorgenommen
 präzise
 partiell
 überwältigen
-der Zwang
-die Strategie
+Zwang
+Strategie
 entlasten
 befragt
 gehässig
 zeichnen
 vorhanden
-die Erfüllung
+Erfüllung
 geschildert
 tüchtig
-der Fortschritt
-der Aufbruch
+Fortschritt
+Aufbruch
 unzureichend
 gebunden
 zusammenhalten
-der Marsch
+Marsch
 marschieren
-die Mauer
-das Wohngebäude
+Mauer
+Wohngebäude
 krachen
 Kirchenschiff
 Empore
@@ -2343,27 +2344,27 @@ Verletzungen
 zunehmend
 vergegenwärtigen
 versäumen
-die ‹bung
-die Vielfalt
-die Ebene
+‹bung
+Vielfalt
+Ebene
 überraschend
 kreisend
-der Inhalt
+Inhalt
 gefürchtet
 harmlos
 eitel
 energisch
-der Rückzug
+Rückzug
 vertrieben
 getraut
 angegeben
-die Führerin
+Führerin
 dürftig
 Gefängnis
 jahre
 Anästhesisten
 beschliessen
-der Philosoph
+Philosoph
 abstrakt
 Korridor
 backen
@@ -2374,88 +2375,88 @@ beschrieben
 leben
 Perspektive
 verlegen
-der Juni
+Juni
 Jerusalem
 hierhin
 formen
 dazwischen
 Birkenau
 Belsen
-der Alliierte
-der Holocaust
-der Elsaﬂ
+Alliierte
+Holocaust
+Elsaﬂ
 Schirme
-die Schläfe
-die Färbung
+Schläfe
+Färbung
 gemordet
-der Henker
+Henker
 hinrichten
 gehorsam
-der Sims
-der Feierabend
+Sims
+Feierabend
 gesessen
 keines
 entgegen
-der Bach
+Bach
 gelegen
 Holzbein
-die Theke
+Theke
 kahl
 Aschenbecher
 abwehren
 zittern
 getäuscht
 rummachen
-die Sitzung
+Sitzung
 drauflos
-der Jurist
+Jurist
 Skihütte
-die Diagnose
+Diagnose
 referendariat
 generationenkonflikts
 akzeptiert
 anerkannt
-der Widerstand
+Widerstand
 Fingerzeig
 allemal
-der Trost
+Trost
 begütigend
-die Klausur
-das Trittbrett
+Klausur
+Trittbrett
 fried
 seminar
 teilnehmer
 gegenwärtig
-die Deutung
+Deutung
 zielgerichtet
 ausschalten
 notiert
 achtzehnten
 Gnadengesuch
-der Lenz
+Lenz
 experimentell
-die Zeile
-die Breite
-der Analphabet
-die Lese
+Zeile
+Breite
+Analphabet
+Lese
 Unmündigkeit
 gekostet
 heutig
-der Austausch
+Austausch
 sowohl
 nähere
-die Entlassung
-die Anstalt
+Entlassung
+Anstalt
 Bildungsangebote
-Angesicht
-die Wärterin
-die Kastanie
+Anget
+Wärterin
+Kastanie
 Brotkrume
 schwieg
 geruh
-die Seife
+Seife
 zubilligen
-das Internat
-der Vortrag
+Internat
+Vortrag
 verbissen
-die Sühne
+Sühne
