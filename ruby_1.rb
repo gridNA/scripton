@@ -43,7 +43,7 @@ class FileProcessor
         url = get_url_by(index, parsedHTML)
         outname = File.basename(url)
         open(url) do |io|
-            File.open(outname,'w') {|out| out.print(io.read) }
+            File.open(outname,'w+') {|out| out.print(io.read)}
         end
         return outname
     end
@@ -51,7 +51,6 @@ class FileProcessor
     def play_mp3_by(index, parsedHTML)
         outname = write_mp3_by_index(index, parsedHTML)
         system "mpg123 -q #{outname}"
-        FileUtils.rm(outname)
     end
     
     def processWords(array)
@@ -60,9 +59,9 @@ class FileProcessor
             word = array[i]
             begin
                 html = parseHtml(normalizeWord(word))
-                puts word
                 play_mp3_by(0, html)
                 play_mp3_by(1, html)
+                puts word
                 rescue Exception => e
                 puts 'translation for word [' + word + '] not found'
             end
