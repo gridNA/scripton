@@ -43,7 +43,7 @@ Than run the project and enjoy German words.
 
 ## Example
 
-![Example](example.png)
+![Example](additional/example.png)
 
 ##Note
 
